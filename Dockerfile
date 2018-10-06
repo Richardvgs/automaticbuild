@@ -4,4 +4,4 @@ WORKDIR /usr/local/src/txt
 RUN echo "Hola Mundo" > saludo.txt
 ## crear archivo
 RUN echo "Hello World" > greetings.txt
-
+RUN echo "otro Hello" > saludo.txt
